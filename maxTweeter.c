@@ -1,3 +1,11 @@
+/* 
+Authors:
+Aleksandar Nikolic
+Andrey Gavrilchik
+
+For the UC Davis course ECS 160, homework 4
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
